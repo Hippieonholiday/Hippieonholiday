@@ -6,15 +6,16 @@ I'm passionate about leveraging the latest technologies to enhance user experien
 I'm committed to delivering high-quality designs that drive engagement and growth. 
 
 _**Key skills include:**_
-  •  Front End Web Development  
-  •  UI & UX Design  
-  •  SEO  
-  •  HTML & CSS    
-  •  Wordpress  
-  •  Strong Communication 
-  •  Problem Solving  
-  •  Attention to Detail  
-  •  Google Search Console & Analytics
+
+    •  Front End Web Development  
+    •  UI & UX Design  
+    •  SEO  
+    •  HTML & CSS    
+    •  Wordpress  
+    •  Strong Communication 
+    •  Problem Solving  
+    •  Attention to Detail  
+    •  Google Search Console & Analytics
 
 ### Partnering with me means more than just web design; *it’s a complete business glow-up.*
 I’m passionate about helping small business owners streamline their operations, gain clarity, and conquer overwhelm.
